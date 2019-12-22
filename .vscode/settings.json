@@ -4,5 +4,6 @@
         "titleBar.activeBackground": "#0A4B22",
         "titleBar.activeForeground": "#F1FDF6"
     },
-    "python.pythonPath": "enasenv/bin/python3"
+    "python.pythonPath": "enasenv/bin/python3",
+    "python.envFile": "enasenv/bin/activate"
 }
